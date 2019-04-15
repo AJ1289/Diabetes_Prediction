@@ -1,0 +1,17 @@
+Name : Abhi
+Gender : Male
+Diabetes Status : Lower Possibility
+Does--> 
+ 1.Exercise Properly 
+ 2.Control your carbon intake 
+ 3.Increase your carbon Intake 
+ 4.Stay Hydarated 
+ 5.Choose food with low glycemic level
+
+Some Natural ways-->
+Bilberry extract
+Bitter melon
+Cinnamon
+Fenugreek
+Ginger
+Okra
